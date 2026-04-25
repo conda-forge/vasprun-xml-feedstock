@@ -5,7 +5,7 @@
 
 [workspace]
 name = "vasprun-xml-feedstock"
-version = "3.54.1"  # conda-smithy version used to generate this file
+version = "3.61.2"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/vasprun-xml-feedstock"
 authors = ["@conda-forge/vasprun-xml"]
 channels = ["conda-forge"]
